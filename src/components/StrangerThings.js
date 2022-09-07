@@ -5,7 +5,7 @@ import Table from './Table';
 
 dotenv.config();
 
-// req. 07 resolvido e criado app frontend
+// req. 07 resolvido
 
 const getRealityClass = (hereIsTheUpsideDownWorld) => (
   hereIsTheUpsideDownWorld ? 'upside-down' : 'stranger-things'
