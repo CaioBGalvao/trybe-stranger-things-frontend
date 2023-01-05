@@ -1,5 +1,5 @@
 # Projeto Stranger Things
-# Repo: Back-end
+# Repo: Front-End
 ## Sétimo projeto de back-end
 
 Nesse projeto nós demos deploy no Heroku.
